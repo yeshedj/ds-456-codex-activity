@@ -1,0 +1,11 @@
+{
+  "total_csv_records": 18904,
+  "mapped_records": 18893,
+  "missing_neighborhood_records": 11,
+  "boundary_neighborhoods": 87,
+  "unmatched_names": [],
+  "density_records": 18893,
+  "invalid_coordinates_in_named_records": 0,
+  "independent_counter_check": "passed for every neighborhood total and top-five leading counts",
+  "boundary_source": "https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Minneapolis_Neighborhoods/FeatureServer/0"
+}
