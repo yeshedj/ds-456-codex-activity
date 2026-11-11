@@ -1,0 +1,9 @@
+caseNumber,beginDate,beginTime,basis,expected_window,observed_window
+MP2026703163,2026/03/06 00:00:00+00,2300,Friday 23:00 starts a weekend-night window,Weekend nights,Weekend nights
+MP2026702105,2026/02/14 00:00:00+00,0,Saturday 00:00 belongs to Friday night,Weekend nights,Weekend nights
+MP202639578,2026/02/15 00:00:00+00,0,Sunday 00:00 belongs to Saturday night,Weekend nights,Weekend nights
+MP2026701995,2026/02/13 00:00:00+00,0,Friday 00:00 belongs to Thursday night,Outside selected windows,Outside selected windows
+MP202670140,2026/03/21 00:00:00+00,400,Saturday 04:00 is the excluded endpoint,Outside selected windows,Outside selected windows
+MP2026701422,2026/01/05 00:00:00+00,900,Monday 09:00 is included,Weekday working hours,Weekday working hours
+MP202639834,2026/01/16 00:00:00+00,1700,Friday 17:00 is the excluded endpoint,Outside selected windows,Outside selected windows
+MP202638098,2026/02/14 00:00:00+00,900,Saturday 09:00 is not a weekday,Outside selected windows,Outside selected windows

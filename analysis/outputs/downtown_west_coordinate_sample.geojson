@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "downtown_west_coordinate_sample",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "sample_id": 1, "caseNumber": "MP202637231", "neighborhood": "Downtown West", "centerLong": -93.27432, "centerLat": 44.9745, "inside_downtown_west_boundary": true }, "geometry": { "type": "Point", "coordinates": [ -93.27432, 44.9745 ] } },
+{ "type": "Feature", "properties": { "sample_id": 2, "caseNumber": "MP202637815", "neighborhood": "Downtown West", "centerLong": -93.27317, "centerLat": 44.97997, "inside_downtown_west_boundary": true }, "geometry": { "type": "Point", "coordinates": [ -93.27317, 44.97997 ] } },
+{ "type": "Feature", "properties": { "sample_id": 3, "caseNumber": "MP202638113", "neighborhood": "Downtown West", "centerLong": -93.26693, "centerLat": 44.97333, "inside_downtown_west_boundary": true }, "geometry": { "type": "Point", "coordinates": [ -93.26693, 44.97333 ] } },
+{ "type": "Feature", "properties": { "sample_id": 4, "caseNumber": "MP202638847", "neighborhood": "Downtown West", "centerLong": -93.30675, "centerLat": 44.90693, "inside_downtown_west_boundary": false }, "geometry": { "type": "Point", "coordinates": [ -93.30675, 44.90693 ] } },
+{ "type": "Feature", "properties": { "sample_id": 5, "caseNumber": "MP202638974", "neighborhood": "Downtown West", "centerLong": -93.27183, "centerLat": 44.97738, "inside_downtown_west_boundary": true }, "geometry": { "type": "Point", "coordinates": [ -93.27183, 44.97738 ] } },
+{ "type": "Feature", "properties": { "sample_id": 6, "caseNumber": "MP202639064", "neighborhood": "Downtown West", "centerLong": -93.27432, "centerLat": 44.9745, "inside_downtown_west_boundary": true }, "geometry": { "type": "Point", "coordinates": [ -93.27432, 44.9745 ] } },
+{ "type": "Feature", "properties": { "sample_id": 7, "caseNumber": "MP202639972", "neighborhood": "Downtown West", "centerLong": -93.27488, "centerLat": 44.97606, "inside_downtown_west_boundary": true }, "geometry": { "type": "Point", "coordinates": [ -93.27488, 44.97606 ] } },
+{ "type": "Feature", "properties": { "sample_id": 8, "caseNumber": "MP2026702032", "neighborhood": "Downtown West", "centerLong": -93.2702, "centerLat": 44.97928, "inside_downtown_west_boundary": true }, "geometry": { "type": "Point", "coordinates": [ -93.2702, 44.97928 ] } },
+{ "type": "Feature", "properties": { "sample_id": 9, "caseNumber": "MP2026702047", "neighborhood": "Downtown West", "centerLong": -93.27432, "centerLat": 44.9745, "inside_downtown_west_boundary": true }, "geometry": { "type": "Point", "coordinates": [ -93.27432, 44.9745 ] } },
+{ "type": "Feature", "properties": { "sample_id": 10, "caseNumber": "MP2026702050", "neighborhood": "Downtown West", "centerLong": -93.26909, "centerLat": 44.97292, "inside_downtown_west_boundary": true }, "geometry": { "type": "Point", "coordinates": [ -93.26909, 44.97292 ] } }
+]
+}

@@ -1,0 +1,11 @@
+sample_id,caseNumber,neighborhood,centerLong,centerLat,inside_downtown_west_boundary
+1,MP202637231,Downtown West,-93.27432,44.97450,True
+2,MP202637815,Downtown West,-93.27317,44.97997,True
+3,MP202638113,Downtown West,-93.26693,44.97333,True
+4,MP202638847,Downtown West,-93.30675,44.90693,False
+5,MP202638974,Downtown West,-93.27183,44.97738,True
+6,MP202639064,Downtown West,-93.27432,44.97450,True
+7,MP202639972,Downtown West,-93.27488,44.97606,True
+8,MP2026702032,Downtown West,-93.27020,44.97928,True
+9,MP2026702047,Downtown West,-93.27432,44.97450,True
+10,MP2026702050,Downtown West,-93.26909,44.97292,True
